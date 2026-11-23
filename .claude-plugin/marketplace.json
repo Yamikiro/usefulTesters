@@ -1,6 +1,10 @@
-{
+﻿{
   "name": "usefultesters",
   "owner": { "name": "Yamikiro" },
-  "description": "The ux-testers plugin: zero-context persona testers that use a web app and think aloud in a live pane",
-  "plugins": [{ "name": "ux-testers", "source": "./plugins/ux-testers" }]
+  "description": "Persona testers that use a web app and think aloud: the ux-testers plugin plus the /usefulTesters and /uxtesters skills",
+  "plugins": [
+    { "name": "ux-testers", "source": "./plugins/ux-testers" },
+    { "name": "usefultesters", "source": "./plugins/usefulTesters" },
+    { "name": "uxtesters", "source": "./plugins/uxtesters" }
+  ]
 }

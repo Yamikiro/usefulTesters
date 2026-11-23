@@ -1,0 +1,1 @@
+﻿{ "name": "usefultesters", "version": "0.1.0", "description": "/usefulTesters: QA-company-style test of a web app with persona testers", "dependencies": ["ux-testers"] }
