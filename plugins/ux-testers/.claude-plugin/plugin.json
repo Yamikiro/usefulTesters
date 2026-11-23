@@ -1,0 +1,6 @@
+{
+  "name": "ux-testers",
+  "version": "0.1.0",
+  "description": "Summon zero-context persona agents to UX-test any web app, and watch them think aloud in a live pane",
+  "types": "./types/index.d.ts"
+}

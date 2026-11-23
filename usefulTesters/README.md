@@ -13,7 +13,7 @@ Only test sites you own or have written permission to test. Creating accounts, s
 ## What you need
 
 - Claude Code.
-- The ux-testers plugin. It provides the `ux-testers:*` agent types, the `think_aloud` tool and the testers pane. Where to get it: unsure. Check with whoever shared this folder, or look in your Claude Code plugin list.
+- The ux-testers plugin. It provides the `ux-testers:*` agent types, the `think_aloud` tool and the testers pane. It is in the same repo, in `plugins/ux-testers`. See the repo README for the install lines.
 - A web address to test (a localhost address is fine).
 
 ## Install
